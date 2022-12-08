@@ -1,1 +1,1 @@
-This is a Git Demo project for Scaler learners.
+This is a Git & GitHub Demo project for Scaler learners.
